@@ -15,3 +15,8 @@ This work is licensed under a
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 CC BY-NC 4.0
+
+
+**Author Attributions:**
+Stephen Hilton
+Mae Taylor
