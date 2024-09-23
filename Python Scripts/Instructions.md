@@ -20,6 +20,7 @@
    
     - Create an excel file with two columns. Column one will be numbers for your answers, while column two contains a title 'reference_answers', or 'generated_answers', and your answers. **_Note:_** These column titles must match the code exactly or the script will not know which column contains the answers.
     - Ensure all answers are contained with one row (watch out for answers containing lists), and ensure the number of rows in your reference answers and generated answers match exactly.
+    - Save as a csv. file.
     - Replace reference_csv_path and generated_csv_path in the code with the paths to your respective CSV files.
     - Run the script to print precision, recall, and F1 scores for each answer, along with the average F1 score.
 
@@ -34,7 +35,6 @@ This script computes the BLEU score for each pair of sentences from the model an
     - Save these .txt files in the same file directory as your Python script. Or, modify the script to include your file path.
     - Replace 'Model answers.txt' and 'Trained answers.txt' in the scipt with the name of your text files.
     - Run the script to print the BLEU score for each sentence and the average BLEU score.
-    - Run the script to print precision, recall, and F1 scores for each answer, along with the average F1 score.
 
 
 5. **BERTScore Calculation:**
