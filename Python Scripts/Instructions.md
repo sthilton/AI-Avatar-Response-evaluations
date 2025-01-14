@@ -2,7 +2,7 @@
 
 ## Setting up Python and installing Libraries
 
-1. **Install Python:** To begin, ensure that you have Python installed on your machine. This project requires Python 3.6 or higher.
+1. **Install Python:** To begin, ensure that you have Python installed on your machine. This project requires a version of Python from 3.9 - 3.12 for the below libraries to be compatible.
    If you don't have Python installed, you can download it from the official Python website: [Download Python](https://www.python.org/downloads/)
 2. **Setting Up a Virtual Environment with PyCharm (Optional but Recommended):** Download instructions as well as manuals for setting up new Virtual Environments can be found [here](https://www.jetbrains.com/pycharm/).
 3. **Install required libraries:** This project relies on several Python libraries for data processing, natural language processing, and evaluation metrics. Ensure the following libraries are installed;
